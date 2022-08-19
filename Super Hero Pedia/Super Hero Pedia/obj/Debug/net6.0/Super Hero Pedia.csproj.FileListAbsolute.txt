@@ -1,0 +1,26 @@
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\bin\Debug\net6.0\appsettings.Development.json
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\bin\Debug\net6.0\appsettings.json
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\bin\Debug\net6.0\Super Hero Pedia.staticwebassets.runtime.json
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\bin\Debug\net6.0\Super Hero Pedia.exe
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\bin\Debug\net6.0\Super Hero Pedia.deps.json
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\bin\Debug\net6.0\Super Hero Pedia.runtimeconfig.json
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\bin\Debug\net6.0\Super Hero Pedia.dll
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\bin\Debug\net6.0\Super Hero Pedia.pdb
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.csproj.AssemblyReference.cache
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.AssemblyInfoInputs.cache
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.AssemblyInfo.cs
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.csproj.CoreCompileInputs.cache
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.MvcApplicationPartsAssemblyInfo.cache
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.RazorAssemblyInfo.cache
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.RazorAssemblyInfo.cs
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\staticwebassets.build.json
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\staticwebassets.development.json
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\scopedcss\bundle\Super Hero Pedia.styles.css
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\scopedcss\projectbundle\Super Hero Pedia.bundle.scp.css
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.dll
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\refint\Super Hero Pedia.dll
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.pdb
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\Super Hero Pedia.genruntimeconfig.cache
+D:\.NET\.NET MVC\Super Hero Pedia\Super Hero Pedia\Super Hero Pedia\obj\Debug\net6.0\ref\Super Hero Pedia.dll
