@@ -7,4 +7,8 @@
     <RootNamespace>Super_Hero_Pedia</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.2" />
+  </ItemGroup>
+
 </Project>
