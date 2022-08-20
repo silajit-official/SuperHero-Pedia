@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\.NET MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj": {}
+    "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\.NET MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj": {
+    "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\.NET MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj",
+        "projectUniqueName": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj",
         "projectName": "Super Hero Pedia",
-        "projectPath": "D:\\.NET\\.NET MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj",
-        "packagesPath": "C:\\Users\\silajit.saha\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\.NET MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\obj\\",
+        "projectPath": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj",
+        "packagesPath": "C:\\Users\\sahas\\.nuget\\packages\\",
+        "outputPath": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\silajit.saha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sahas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
