@@ -1,7 +1,10 @@
+using Super_Hero_Pedia.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IMyRepository, MyRepository>();
 
 var app = builder.Build();
 
@@ -20,8 +23,7 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapDefaultControllerRoute();
+
 
 app.Run();

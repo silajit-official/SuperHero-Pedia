@@ -8952,9 +8952,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj",
-      "projectName": "Super Hero Pedia",
-      "projectPath": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj",
+      "projectUniqueName": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj",
+      "projectName": "Super_Hero_Pedia",
+      "projectPath": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj",
       "packagesPath": "C:\\Users\\sahas\\.nuget\\packages\\",
       "outputPath": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\obj\\",
       "projectStyle": "PackageReference",

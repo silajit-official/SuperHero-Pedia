@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k7Onjp7TmjfFlupMPtmhWMyUR8whROqJ2jhgolSDgLQsyzl/V97RojToWQ5CYwzOjWoTHt4Vxeomq1KL7Fb1vA==",
+  "dgSpecHash": "x/anFRX8jiUnZwy7xu3sjy2OzbiLTCOkONkChptqqd7dP3/OHonzhGZpfUOyHSFbocBkwVXrHlwVP1I/StRD/g==",
   "success": true,
-  "projectFilePath": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia.csproj",
+  "projectFilePath": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sahas\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\sahas\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
