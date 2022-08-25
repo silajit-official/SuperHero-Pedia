@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj": {}
+    "D:\\New folder\\New folder\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj": {}
   },
   "projects": {
-    "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj": {
+    "D:\\New folder\\New folder\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj",
+        "projectUniqueName": "D:\\New folder\\New folder\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj",
         "projectName": "Super_Hero_Pedia",
-        "projectPath": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj",
-        "packagesPath": "C:\\Users\\sahas\\.nuget\\packages\\",
-        "outputPath": "K:\\MVC\\Super Hero Pedia\\Super Hero Pedia\\Super Hero Pedia\\obj\\",
+        "projectPath": "D:\\New folder\\New folder\\Super Hero Pedia\\Super Hero Pedia\\Super_Hero_Pedia.csproj",
+        "packagesPath": "C:\\Users\\silajit.saha\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder\\New folder\\Super Hero Pedia\\Super Hero Pedia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sahas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\silajit.saha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
