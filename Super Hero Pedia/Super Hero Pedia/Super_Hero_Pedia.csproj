@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\images\carousel\" />
+    <Folder Include="wwwroot\images\Random\" />
     <Folder Include="wwwroot\images\profile\" />
   </ItemGroup>
 
