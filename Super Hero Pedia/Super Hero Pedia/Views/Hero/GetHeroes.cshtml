@@ -16,7 +16,34 @@
 </div>
 
 <h2 style="text-align:center;">Some Legends Are: </h2>
+<div class="container row my-3" style="margin-left:100px;">
+    <div class="container col-6">
+        <form method="get" asp-controller="Hero" asp-action="GetHeroes">
+            <select name="text" onchange="this.form.submit()" class="form-select" aria-label="Default select example">
+                <option value="0">Filter by Universe</option>
+                <option value="0">Select All</option>
+                <option value="1">Marvel</option>
+                <option value="2">DC</option>
+                <option value="3">Anime</option>
+            </select>
+        </form>
+    </div>
 
+    <div class="container col-6">
+        <form method="get" >
+            <select name="text" onchange="this.form.submit()" class="form-select" aria-label="Default select example">
+                <option value="0">Filter by Skills</option>
+                <option value="0">Select All</option>
+                <option value="1">Marvel</option>
+                <option value="2">DC</option>
+                <option value="3">Anime</option>
+            </select>
+        </form>
+    </div>
+</div>
+
+
+@*List of Heros*@
 <div class="container">
     <div class="album py-5 bg-light">
         <div class="container">
@@ -39,15 +66,15 @@
                                     @{
                                         if (item.UniverseId == 1)
                                         {
-                                            <text>Marvel</text>
+                                                <text>Marvel</text>
                                         }
                                         else if (item.UniverseId == 2)
                                         {
-                                            <text>DC</text>
+                                                <text>DC</text>
                                         }
                                         else
                                         {
-                                            <text>Anime</text>
+                                                <text>Anime</text>
                                         }
 
 

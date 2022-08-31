@@ -11,9 +11,14 @@ namespace Super_Hero_Pedia.Controllers
         {
             _myRepository=myRepository;
         }
-        public IActionResult GetHeroes()
+        public IActionResult GetHeroes(int text=0)
         {
-            return View(_myRepository.GetHeros());
+            if(text == 0)
+                return View(_myRepository.GetHeros());
+            else
+            {
+                return View(_myRepository.GetHeros().Where(m => m.UniverseId == text).ToList());
+            }
         }
 
 
@@ -36,6 +41,12 @@ namespace Super_Hero_Pedia.Controllers
                 
             }
             return NotFound();
+        }
+
+        public IActionResult test(int text)
+        {
+            int a = 10;
+            return View("GetHeroes", (_myRepository.GetHeros().Where(m => m.UniverseId == 1).ToList()));
         }
     }
 }
